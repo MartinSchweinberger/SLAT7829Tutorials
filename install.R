@@ -11,3 +11,5 @@ install.packages("ggplot2")
 install.packages("textplot")
 install.packages("flextable")
 install.packages("cfa")
+install.packages("tm")
+

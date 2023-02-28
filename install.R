@@ -1,6 +1,5 @@
 install.packages("dplyr")
 install.packages("quanteda")
-install.packages("dplyr")
 install.packages("stringr")
 install.packages("tidytext")
 install.packages("ggplot2")

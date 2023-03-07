@@ -16,3 +16,6 @@
 
 [Case Study: Swearing in Irish English](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fswearing_cb.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcomp_cb.ipynb)
+
+[Case Study: Comparing corpora](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcomp_cb.ipynb)

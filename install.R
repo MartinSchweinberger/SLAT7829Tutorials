@@ -14,4 +14,3 @@ install.packages("tidytext")
 install.packages("tm")
 install.packages("udpipe")
 install.packages("wordcloud2")
-

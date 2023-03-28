@@ -8,13 +8,17 @@
 
 [Regular expressions in R](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fregex_cb.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fintrocl_cb.ipynb)
-
-[Exploring Corpus Data](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fintrocl_cb.ipynb)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fswearing_cb.ipynb)
 
 [Case Study: Swearing in Irish English](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fswearing_cb.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcolloc_cb.ipynb)
+
+[Analyzing N-grams, Collocations, and Keyness](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcolloc_cb.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fintrocl_cb.ipynb)
+
+[Exploring Corpus Data](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fintrocl_cb.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcomp_cb.ipynb)
 

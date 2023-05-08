@@ -24,6 +24,10 @@
 
 [Case Study: Comparing corpora](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fcomp_cb.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Ftopic_cb.ipynb)
+
+[Case Study: Article use among ESL](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Ftopic_cb.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Flearn_cb.ipynb)
 
 [Case Study: Article use among ESL](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Flearn_cb.ipynb)

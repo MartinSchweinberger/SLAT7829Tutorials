@@ -30,7 +30,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fnet_cb.ipynb)
 
-[Case Study: Orthographic errors among ESL](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fnet_cb.ipynb)
+[Network Tool](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fnet_cb.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Flearn_cb.ipynb)
 
